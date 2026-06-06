@@ -65,7 +65,7 @@ Build the Call to Action Section:
 2. Include a paragraph (`<p>`) encouraging readers to visit the park.
 3. Use an `<a>` tag to create a link to a relevant webpage (e.g., [the National Park Service website for Fire Island](https://www.nps.gov/fiis/index.htm)).
 
-## Important 
+
 
 Before you submit your solution, you need to save your progress with git.
 1. Add your changes to the staging area by executing `git add .`
