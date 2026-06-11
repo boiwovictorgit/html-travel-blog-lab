@@ -15,7 +15,7 @@ For this lab, imagine you are creating a travel blog and want to build a webpage
 * [GitHub Repo](https://github.com/learn-co-curriculum/html-travel-blog-lab)
 * MDN: HTML
 
-## Setup Steps
+
 
 ### Lab Setup 1: Fork Lab Repository
 
